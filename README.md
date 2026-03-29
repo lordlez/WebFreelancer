@@ -1,10 +1,10 @@
-# 💻 Web Freelancer: Tu Portafolio Digital de Práctica 🚀
+# Web Freelancer: Portafolio Digital de Práctica
 
 ¡Bienvenido a un ejercicio de maquetación web con temática freelance! Este proyecto es un sitio web creado como práctica, diseñado para simular un perfil profesional y mostrar servicios.
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 El principal propósito de este proyecto fue:
 
@@ -14,14 +14,14 @@ El principal propósito de este proyecto fue:
 
 ---
 
-## 🌐 Acceso Directo
+## Acceso Directo
 
 Explora el sitio web aquí:
 👉 **[Web Freelancer Online](https://lordlez.github.io/WebFreelancer/)** 🔗
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 Para el desarrollo de esta web de práctica, se emplearon las siguientes tecnologías esenciales:
 
