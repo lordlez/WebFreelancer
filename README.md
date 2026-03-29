@@ -1,6 +1,6 @@
 # Web Freelancer: Portafolio Digital de Práctica
 
-¡Bienvenido a un ejercicio de maquetación web con temática freelance! Este proyecto es un sitio web creado como práctica, diseñado para simular un perfil profesional y mostrar servicios.
+Este proyecto es un sitio web creado como práctica, diseñado para simular un perfil profesional y mostrar servicios.
 
 ---
 
